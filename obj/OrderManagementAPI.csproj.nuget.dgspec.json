@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anoshia\\source\\repos\\OrderManagementAPI\\OrderManagementAPI\\OrderManagementAPI.csproj": {}
+    "C:\\Users\\Anoshia\\source\\repos\\OrderManagementAPI\\OrderManagementAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anoshia\\source\\repos\\OrderManagementAPI\\OrderManagementAPI\\OrderManagementAPI.csproj": {
+    "C:\\Users\\Anoshia\\source\\repos\\OrderManagementAPI\\OrderManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anoshia\\source\\repos\\OrderManagementAPI\\OrderManagementAPI\\OrderManagementAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Anoshia\\source\\repos\\OrderManagementAPI\\OrderManagementAPI.csproj",
         "projectName": "OrderManagementAPI",
-        "projectPath": "C:\\Users\\Anoshia\\source\\repos\\OrderManagementAPI\\OrderManagementAPI\\OrderManagementAPI.csproj",
+        "projectPath": "C:\\Users\\Anoshia\\source\\repos\\OrderManagementAPI\\OrderManagementAPI.csproj",
         "packagesPath": "C:\\Users\\Anoshia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anoshia\\source\\repos\\OrderManagementAPI\\OrderManagementAPI\\obj\\",
+        "outputPath": "C:\\Users\\Anoshia\\source\\repos\\OrderManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

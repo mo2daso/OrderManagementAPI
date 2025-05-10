@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Dw4h1M2WlE=",
+  "dgSpecHash": "vUH0L7v0GKk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anoshia\\source\\repos\\OrderManagementAPI\\OrderManagementAPI\\OrderManagementAPI.csproj",
+  "projectFilePath": "C:\\Users\\Anoshia\\source\\repos\\OrderManagementAPI\\OrderManagementAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anoshia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Anoshia\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
@@ -11,12 +11,5 @@
     "C:\\Users\\Anoshia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
     "C:\\Users\\Anoshia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: The HTTP request to 'GET https://api.nuget.org/v3-vulnerabilities/2025.05.06.23.43.38/2025.05.10.11.43.49/vulnerability.update.json' has timed out after 100000ms."
-    }
-  ]
+  "logs": []
 }
